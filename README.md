@@ -9,4 +9,5 @@ Check the interactive graphics here : https://nbviewer.jupyter.org/github/DavidM
 * Tree Maps
 * Area Plots
 * Choropleth Maps
+* Bar Plots
 
