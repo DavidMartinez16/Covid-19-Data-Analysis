@@ -5,3 +5,8 @@ Check the interactive graphics here : https://nbviewer.jupyter.org/github/DavidM
 ## Some Data Visualizations
 
 * Scatter Plots
+* Density Map Box
+* Tree Maps
+* Area Plots
+* Choropleth Maps
+
